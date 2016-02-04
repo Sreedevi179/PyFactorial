@@ -1,4 +1,4 @@
-def factorial(PositiveInt)
+def factorial(PositiveInt):
     """
     Computes the factorial of a positive integer
     """
